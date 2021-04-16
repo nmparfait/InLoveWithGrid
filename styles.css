@@ -189,6 +189,14 @@ Cards
 .card-footer span {
   color: var(--primaryColor);
 }
+/* making the card with row height to control the height 
+.card {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr 200px;
+}
+
+*/
 
 @media screen and (min-width: 768px) {
   .cards-center {
