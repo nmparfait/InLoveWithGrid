@@ -60,6 +60,7 @@ p {
   display: inline-block;
   padding: 0.5rem 1rem;
   text-transform: capitalize;
+  color: var(--primaryColor);
   border: 3px solid var(--primaryColor);
   margin: 3rem;
   transition: var(--mainTransition);
